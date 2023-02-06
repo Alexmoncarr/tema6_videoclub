@@ -4,7 +4,7 @@ import cliente.Cliente;
 
 import java.util.Date;
 
-public class Cabecera {
+public class Cabecera extends Alquiler_pelicula {
 
     Cliente cliente;
     Date fecha_entrega;

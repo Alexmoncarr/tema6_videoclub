@@ -1,6 +1,6 @@
 package alquiler;
 
-public class Cuerpo {
+public class Cuerpo extends Alquiler_pelicula{
 
     String pelicula;
 
