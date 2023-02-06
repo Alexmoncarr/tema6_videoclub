@@ -7,6 +7,8 @@ public class Cliente {
     enum bono {CREDITO, PERIODO, COSTO}
 
 
+
+
     public Cliente() {
     }
 
